@@ -1,0 +1,20 @@
+.Container{
+    border: 1px solid black;
+    margin: 50px;
+    max-width: 625px;
+  }
+  
+  .cell{
+      display: inline-block;
+      height: 25px;
+      width: 25px;
+  }
+  .cellOne{
+    background-color: blueviolet;
+  }
+  .row
+  {
+      display: block;
+      height: 25px;
+  }
+  
